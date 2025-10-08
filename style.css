@@ -1,0 +1,5 @@
+$gradient:linear-gradient(180deg, rgba($info,1), rgba($success,1));
+
+.bg-custom-gradient {
+  background-image: $gradient;
+}
